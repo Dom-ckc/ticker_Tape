@@ -1,0 +1,7 @@
+feedparser
+pandas
+plotly
+requests
+streamlit
+yfinance
+openai
